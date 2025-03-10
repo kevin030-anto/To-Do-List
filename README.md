@@ -6,7 +6,7 @@ A simple one-page **To-Do List App** built using Flutter. This app allows users 
 ---
 
 ## 📷 Sample Screenshot
-![To-Do List Screenshot]([https://via.placeholder.com/600x300?text=Screenshot+Here](https://github.com/kevin030-anto/To-Do-List/blob/main/Screenshot%20To-Do%20List.png))
+![To-Do List Screenshot](https://github.com/kevin030-anto/To-Do-List/blob/main/Screenshot%20To-Do%20List.png)
 
 
 ---
