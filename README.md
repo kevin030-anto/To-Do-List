@@ -43,9 +43,11 @@ A simple one-page **To-Do List App** built using Flutter. This app allows users 
 
 **NOTE:**
 
-APK (Split by Architecture) => It create smaller APKs for different architectures
+Android (AAB) => Android App Bundle (AAB), To publish your app on the Google Play Store.
 
-To Building an iOS App Xcode is required (macOS only)
+APK (Split by Architecture) => It create smaller APKs for different architectures.
+
+To Building an iOS App Xcode is required (macOS only).
 
 ---
 
